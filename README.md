@@ -1,2 +1,2 @@
-# LatihanPWL1
-LatihanPWL1
+# LatihanPWL2
+LatihanPWL2
